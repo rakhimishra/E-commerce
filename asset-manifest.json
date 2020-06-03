@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rakhimishra/E-commerce.git/static/css/main.1b9aca8d.chunk.css",
+    "main.js": "/rakhimishra/E-commerce.git/static/js/main.2f405d93.chunk.js",
+    "main.js.map": "/rakhimishra/E-commerce.git/static/js/main.2f405d93.chunk.js.map",
+    "runtime-main.js": "/rakhimishra/E-commerce.git/static/js/runtime-main.3aafa771.js",
+    "runtime-main.js.map": "/rakhimishra/E-commerce.git/static/js/runtime-main.3aafa771.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/rakhimishra/E-commerce.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4183be71.chunk.js": "/rakhimishra/E-commerce.git/static/js/2.4183be71.chunk.js",
+    "static/js/2.4183be71.chunk.js.map": "/rakhimishra/E-commerce.git/static/js/2.4183be71.chunk.js.map",
+    "index.html": "/rakhimishra/E-commerce.git/index.html",
+    "precache-manifest.e71c25715e13175d75966e640e8f27f0.js": "/rakhimishra/E-commerce.git/precache-manifest.e71c25715e13175d75966e640e8f27f0.js",
+    "service-worker.js": "/rakhimishra/E-commerce.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/rakhimishra/E-commerce.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1b9aca8d.chunk.css.map": "/rakhimishra/E-commerce.git/static/css/main.1b9aca8d.chunk.css.map",
+    "static/js/2.4183be71.chunk.js.LICENSE.txt": "/rakhimishra/E-commerce.git/static/js/2.4183be71.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rakhimishra/E-commerce.git/static/media/logo.9f7e506d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3aafa771.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4183be71.chunk.js",
+    "static/css/main.1b9aca8d.chunk.css",
+    "static/js/main.2f405d93.chunk.js"
+  ]
+}
