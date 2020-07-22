@@ -19,8 +19,8 @@ export default class Navbar extends Component{
                 </Link>
                 <ul className="navbar-nav align-items-center">
                     <li className="nav-item ml-5">
-                        <Link to='/' className="nav-link">
-                            products
+                        <Link to='/' className="nav-link text-warning">
+                            BharatShopping.com
                         </Link>
                     </li>
                 </ul>
@@ -30,7 +30,7 @@ export default class Navbar extends Component{
                             <i className="fas fa-cart-plus"></i>
                         </span>
                         
-                        my cart
+                        my cart 
                     </ButtonContainer>
                 </Link>
             </NavWrapper>

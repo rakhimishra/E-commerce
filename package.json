@@ -1,6 +1,5 @@
 {
-  "homepage":"https://github.com/rakhimishra/E-commerce.git",
-
+  "homepage": "http://rakhimishra.github.io/Mini-Mobile-store",
   "name": "store",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +10,7 @@
     "bootstrap": "^4.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-paypal-express-checkout": "^1.0.5",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "styled-components": "^5.1.1"
@@ -22,6 +22,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -37,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
